@@ -18,12 +18,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 0;
+    padding: 30px 0;
 }
 
 .logo img {
-    height: 15px;
-    width: 15px;
+    height: 25px;
+    width: 25px;
     display: flex;
     align-items: center;
 
@@ -45,6 +45,7 @@ body {
 
 li {
     list-style: none;
+    margin-right: 10px;
 
 }
 
@@ -55,7 +56,7 @@ a {
 .lia {
     font-family: 'Poppins';
     font-weight: 700;
-    font-size: 9px;
+    font-size: 14px;
 
 
 }
@@ -63,8 +64,8 @@ a {
 button {
     width: 8vw;
     height: 6vh;
-    border-radius: 5px;
-    font-size: 0.8em;
+    border-radius: 8px;
+    font-size: 14px;
     font-family: 'Poppins';
     font-weight: 200;
     padding: 8px 20px;
@@ -77,10 +78,10 @@ button {
 
 .mainimg {
     position: relative;
-    width: 135px;
-    top: -145px;
-    left: 48px;
-    height: 80vh;
+    width: 230px;
+    top: -243px;
+    left: 76px;
+    height: 76vh;
 }
 
 .mainsection {
