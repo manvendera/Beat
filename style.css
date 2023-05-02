@@ -81,7 +81,7 @@ button {
     width: 230px;
     top: -243px;
     left: 76px;
-    height: 76vh;
+    height: 80vh;
 }
 
 .mainsection {
@@ -91,18 +91,22 @@ button {
 .section {
     margin-top: 20px;
     height: 70vh;
-    width: 35vw;
+    width: 21vw;
     /* background-color: red; */
-    margin-left: 120px;
+    margin-left: 175px;
 }
 
 .mainimg1 {
-    width: 180px;
-    margin-left: 25px;
+    width: 261px;
+    margin-left: 40px;
+}
+.h1{
+        font-size: 2em;
+        font-weight: 900;
 }
 
 .h6 {
-    font-weight: 500;
+    font-weight: 600;
     margin-top: 20px;
 }
 
