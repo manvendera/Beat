@@ -91,28 +91,29 @@ button {
 .section {
     margin-top: 20px;
     height: 70vh;
-    width: 21vw;
+    width: 36vw;
     /* background-color: red; */
-    margin-left: 175px;
+    margin-left: 187px;
 }
 
 .mainimg1 {
-    width: 261px;
+    width: 272px;
     margin-left: 40px;
 }
 .h1{
-        font-size: 2em;
+        font-size: 3em;
         font-weight: 900;
 }
 
 .h6 {
     font-weight: 600;
     margin-top: 20px;
+    font-size: 1.5em;
 }
 
 .psec {
-    font-weight: 100;
-    font-size: 9px;
+    font-weight: 200;
+    font-size: 1em;
     margin-top: 12px;
 }
 
@@ -121,7 +122,7 @@ button {
     height: 6vh;
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 20px;
     /* justify-content: space-between; */
     background-color: #1e1e21;
     padding: 10px 20px;
