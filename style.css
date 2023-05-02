@@ -173,11 +173,13 @@ button {
 }
 
 .specification-logo {
-    height: 30px;
+    height: 60px;
 }
 
 .specification-list {
     display: flex;
+    gap: 61px;
+    margin-top: 34px;
 }
 
 .specitem {
