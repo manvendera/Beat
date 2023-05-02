@@ -122,12 +122,12 @@ button {
     height: 6vh;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 21px;
     /* justify-content: space-between; */
     background-color: #1e1e21;
     padding: 10px 20px;
     border-radius: 5px;
-    margin-top: 12px;
+    margin-top: 23px;
 }
 
 .imsb-2 {
@@ -152,7 +152,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 50px;
+    padding: 0 100px;
     margin-bottom: 40px;
     position: relative;
     cursor: pointer;
@@ -162,7 +162,7 @@ button {
 }
 
 .logoimga {
-    height: 13px;
+    height: 25px;
 
 }
 
